@@ -1,7 +1,11 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+<<<<<<< HEAD
+    title: 'vincent-nuxt-app2',
+=======
     title: 'login-page',
+>>>>>>> df694db2b5bba84d14fdf160875079bc9222f49f
     htmlAttrs: {
       lang: 'en'
     },
