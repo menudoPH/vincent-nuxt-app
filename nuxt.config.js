@@ -1,11 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-<<<<<<< HEAD
     title: 'vincent-nuxt-app2',
-=======
-    title: 'login-page',
->>>>>>> df694db2b5bba84d14fdf160875079bc9222f49f
     htmlAttrs: {
       lang: 'en'
     },
@@ -43,5 +39,12 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  watchers: {
+    webpack: {
+      aggregateTimeout: 300,
+      poll: 1000
+    }
   }
 }
