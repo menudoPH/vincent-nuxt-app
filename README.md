@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # vincent-nuxt-app2
 =======
-<<<<<<< HEAD
+
 # login-page
->>>>>>> df694db2b5bba84d14fdf160875079bc9222f49f
+
 
 ## Build Setup
 
