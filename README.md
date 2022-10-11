@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # vincent-nuxt-app2
+=======
+<<<<<<< HEAD
+# login-page
+>>>>>>> df694db2b5bba84d14fdf160875079bc9222f49f
 
 ## Build Setup
 
@@ -67,3 +72,9 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+<<<<<<< HEAD
+=======
+=======
+# vincent-nuxt-app
+>>>>>>> main
+>>>>>>> df694db2b5bba84d14fdf160875079bc9222f49f
